@@ -9,7 +9,7 @@
 **Khóa**: 2020 – 2025  
 **Hệ**: Đại học chính quy 
 
-# Giới Thiệu -
+# Giới Thiệu
 Trong bối cảnh công nghệ đang phát triển vượt bậc, việc áp dụng các công nghệ hiện đại vào sản xuất nông nghiệp đã trở thành xu hướng tất yếu nhằm đáp ứng nhu cầu ngày càng cao của xã hội. Một trong những ứng dụng nổi bật là hệ thống **IoT (Internet of Things)**, cho phép giám sát và điều khiển các yếu tố môi trường một cách tự động và chính xác. Hệ thống này giúp tăng năng suất, giảm thiểu rủi ro, và bảo vệ môi trường.
 
 **Việt Nam** là một quốc gia nông nghiệp với phần lớn diện tích đất dành cho trồng trọt. Tuy nhiên, ngành nông nghiệp trong nước đối mặt với nhiều thách thức, đặc biệt là sâu bệnh hại cây trồng gây thiệt hại lớn cho sản xuất. Để giải quyết vấn đề này, việc kết hợp IoT và học sâu (**deep learning**) như **ResNet** trong nhận diện sâu bệnh là một giải pháp hiệu quả, giúp nông dân phát hiện nhanh chóng và chính xác các loại sâu bệnh.
